@@ -21,7 +21,7 @@ proyecto-ride-fare/
 └── README.md
 ```
 
-> ⚠️ Si los archivos CSV pesan más de 25MB, descárgalos desde:  
+> ⚠️ Los archivos CSV pesan más de 25MB, descárgalos desde:  
 > [📂 Google Drive - Datasets](https://drive.google.com/drive/folders/1ugigVlvpzbfM354iBIh-QWe7lJyLdDAk)
 
 ---
